@@ -223,6 +223,8 @@ VALUES (‘Matthew’, ‘Tkachuk’, ‘1997-12-11’, ‘Scottsdale AZ USA’,
 Insert Into People (First_Name, Last_Name, dob, Birthplace, Height_cm, Weight_kg) 
 VALUES (‘Kris’, ‘Versteeg’, ‘1986-05-13’, ‘Lethbridge AB Canada’, 180, 80);
 
+Insert Into People (First_Name, Last_Name, dob, Birthplace, Height_cm, Weight_kg) 
+VALUES ('Alan', 'Labouseur', '1968-06-09', 'Poughkeepsie New York', 180, 78);
 
 --Views--
 CREATE VIEW Current_Rosters as
